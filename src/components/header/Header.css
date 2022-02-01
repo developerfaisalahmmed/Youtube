@@ -1,0 +1,141 @@
+.logo {
+    margin-left: 10px;
+}
+
+.navber-search {
+    width: 500px !important;
+    border-radius: 1px !important;
+
+}
+
+.search-btn {
+    border: 1px solid #ced4da !important;
+    background-color: #f9f9f9 !important;
+    border-radius: 1px !important;
+    cursor: pointer !important;
+    height: 40px !important;
+    width: 64px !important;
+    margin: 0 !important;
+}
+
+.search-btn:hover {
+    background-color: #c6c6c6 !important;
+    color: ivory;
+}
+
+.search-btn:focus {
+    border-color: f9f9f9 !important;
+    box-shadow: none !important;
+    outline: 0 none !important;
+}
+
+.navber-search:focus {
+    border-color: f9f9f9 !important;
+    box-shadow: none !important;
+    outline: 0 none !important;
+}
+
+
+
+
+.fa-search {
+    color: black !important;
+}
+
+.microphone {
+    margin-left: 20px;
+    width: 50px !important;
+    color: #212121 !important;
+    background-color: #fff !important;
+    border-color: #fff !important;
+}
+
+.microphone:focus{
+
+    background-color: rgb(240, 230, 230) !important;
+
+    box-shadow: none !important;
+}
+
+.fa-microphone{
+    font-size: 20px !important;
+}
+
+
+
+.camera {
+    margin-right: 20px;
+    width: 50px !important;
+    color: #212121 !important;
+    background-color: #fff !important;
+    border-color: #fff !important;
+}
+
+.camera:focus{
+
+    background-color: rgb(240, 230, 230) !important;
+
+    box-shadow: none !important;
+}
+
+.fa-camera{
+    font-size: 20px !important;
+}
+
+
+.tasks {
+    margin-right: 20px;
+    width: 50px !important;
+    color: #212121 !important;
+    background-color: #fff !important;
+    border-color: #fff !important;
+}
+
+.tasks:focus{
+
+    background-color: rgb(240, 230, 230) !important;
+
+    box-shadow: none !important;
+}
+
+.fa-tasks{
+    font-size: 20px !important;
+}
+
+
+
+.bell {
+    margin-right: 20px;
+    width: 50px !important;
+    color: #212121 !important;
+    background-color: #fff !important;
+    border-color: #fff !important;
+}
+
+.bell:focus{
+
+    background-color: rgb(240, 230, 230) !important;
+
+    box-shadow: none !important;
+}
+
+.fa-bell{
+    font-size: 20px !important;
+}
+
+
+
+
+
+.profileLogo{
+    width: 50px;
+    height: 50px;
+}
+
+.profileLogoBtn{
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    /* margin-right: 10px !important; */
+}
+
