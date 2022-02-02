@@ -24,7 +24,7 @@
 .sidenav a {
     /* padding: 6px 8px 6px 16px; */
     text-decoration: none;
-    color: black;
+    color: #030303 !important;
     font-family: "Roboto", "Arial", sans-serif;
     font-size: 14px !important;
     line-height: 2rem !important;
@@ -39,7 +39,7 @@
 }
 
 .sidenav a:hover {
-    color: #064579;
+    color: #030303 !important;
 }
 
 

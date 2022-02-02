@@ -1,6 +1,6 @@
 .channelImage{
-    width: 30px !important;
-    height: 30px !important;
+    width: 40px !important;
+    height: 40px !important;
     border-radius: 50% !important;
 }
 
@@ -17,4 +17,15 @@
     overflow-y: scroll;
     height: 100vh;
     padding-top: 100px;
+}
+
+.home-videos-link{
+    text-decoration: none !important;
+    color: black;
+    margin-bottom: 15px !important;
+    font-weight: 500;
+    line-height: 1.2;
+}
+.home-videos-link:hover{
+    color: black;
 }
